@@ -1,5 +1,4 @@
 body { background-color:darkcyan; color:whitesmoke; }
 p {border: 2px solid white; padding: 30px; margin: 70px;}
 h1 { text-align: center; }
-a { text-align: center; }
-.center { display: block; margin-left: auto; margin-right: auto; width: 50%; }
+a { text-align: center; }a
